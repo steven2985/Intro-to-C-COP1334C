@@ -1,0 +1,3 @@
+﻿  coin.cpp
+f:\cop1334c\homework 6\coin\coin\coin.cpp(51): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  coin.vcxproj -> F:\COP1334C\Homework 6\coin\Debug\coin.exe

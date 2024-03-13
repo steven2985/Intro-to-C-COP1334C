@@ -1,0 +1,2 @@
+﻿  functions.cpp
+g:\cop1334c\functions practice\functions practice\functions.cpp(159): error C3867: 'std::basic_ifstream<char,std::char_traits<char>>::open': non-standard syntax; use '&' to create a pointer to member

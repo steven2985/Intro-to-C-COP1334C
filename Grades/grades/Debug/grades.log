@@ -1,0 +1,4 @@
+﻿  grades.cpp
+c:\users\student\desktop\grades\grades\grades.cpp(48): error C4700: uninitialized local variable 'midTerm' used
+c:\users\student\desktop\grades\grades\grades.cpp(54): error C4700: uninitialized local variable 'finalExam' used
+c:\users\student\desktop\grades\grades\grades.cpp(60): error C4700: uninitialized local variable 'projectScore' used
